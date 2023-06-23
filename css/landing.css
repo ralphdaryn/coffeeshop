@@ -1,0 +1,86 @@
+h1 {
+  font-size: 3.75rem;
+  font-weight: 300;
+  color: #393939;
+}
+
+h2 {
+  font-size: 3.75rem;
+  font-weight: 300;
+  color: #393939;
+}
+
+h3 {
+  font-size: 2.063rem;
+  font-weight: 300;
+  color: #393939;
+}
+
+p {
+  font-size: 1.125rem;
+  font-weight: 400;
+  color: #393939;
+}
+
+nav li {
+  list-style-type: none;
+  font-size: 1.313rem;
+  text-transform: uppercase;
+}
+
+header {
+  background-color: #fff0ed;
+}
+
+article {
+  background-color: #fff0ed;
+}
+
+button {
+  background-color: #5bacc3;
+  color: #fff;
+  border: none;
+  font-size: 1.313rem;
+  font-weight: 400;
+  cursor: pointer;
+}
+
+footer {
+  background-color: #fff0ed;
+}
+
+span {
+  font-weight: 700;
+}
+
+.logo {
+  width: 3.125rem;
+}
+
+.brand {
+  font-size: 2.188rem;
+  font-weight: 300;
+}
+
+.products {
+  background-color: #fff;
+}
+
+.price {
+  font-size: 2.063rem;
+  color: #5bacc3;
+}
+
+.discount {
+  background-color: #393939;
+  font-size: 2.813rem;
+  font-weight: 400;
+  color: white;
+  margin-top: 0;
+  text-align: center;
+  width: 80%;
+}
+
+.social-media {
+  width: 3.125rem;
+}
